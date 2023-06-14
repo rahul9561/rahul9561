@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahul9561
 - 👀 I’m interested in doing coding
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on devlopement
+- 💞️ I’m looking for intership as devlopement
 - 📫 How to reach me 9561579087
 
 <!---
