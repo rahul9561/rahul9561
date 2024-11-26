@@ -1,3 +1,91 @@
+# 👨‍💻 Rahul Kumar  
+
+Hello! I am **Rahul Kumar**, a passionate and skilled **Full Stack Developer** specializing in **Django** and **React**. With hands-on experience in building efficient and scalable web applications, I enjoy crafting solutions that solve real-world problems. I also offer training in **Python Full Stack Development** and **Data Structures and Algorithms (DSA)**.
+
+---
+
+## 🏢 Professional Experience  
+- **Full Stack Developer** at [AKS Global Tech ](https://www.aksglobaltech.com/)  
+  - Specializing in Django and React development.  
+  - Expertise in API integration, deployment, and hosting using **Nginx**.  
+
+- **B2B Business Consultant**  
+  - Focused on **export and import** with a robust system for managing multiple distribution companies.  
+
+- **Trainer & Mentor**  
+  - Conducting **Python full-stack courses** with a focus on **DSA** (string, array, stack, queue) and project-based learning.  
+
+---
+
+## 🎓 Education  
+- **Bachelor of Computer Applications (BCA)** – Graduated in 2023  
+
+---
+
+## 🛠️ Technical Skills  
+
+### Backend:  
+- Python, Django, Django Rest Framework (DRF)  
+- JWT Authentication, Database design, and ER modeling (SQLite, MySQL)  
+
+### Frontend:  
+- React, TypeScript, Next.js  
+- React Native (Expo) for mobile app development  
+- HTML, CSS, Bootstrap  
+
+### Other Tools:  
+- Git, GitHub, Linux (Ubuntu/WSL2)  
+- Deployment using **Nginx**  
+- Strong knowledge in **Data Structures and Algorithms (DSA)**  
+
+---
+
+## 📌 Recent Projects  
+
+1. **ERP Model Software**  
+   - Built a robust **ERP system** using **Django** and **Bootstrap** for multi-company sales and inventory tracking.  
+
+2. **SBTC Website** ([Visit SBTC](https://www.sbtc.one))  
+   - E-commerce platform for PVC pipes, fittings, tanks, and more.  
+
+3. **AM Loan Seva Website**  
+   - Platform offering **Personal, Home, and Business Loans** with a user-friendly **Bootstrap UI**.  
+
+4. **Movie App** ([GitHub Code](https://github.com/rahul9561))  
+   - React Native app displaying top-rated and upcoming movies via API integration.  
+
+5. **Pure Aqua Services**  
+   - E-commerce platform for water purification solutions.  
+
+---
+
+## 🎯 Internships & Learning Platforms  
+I offer internships and training in:  
+- **Blockchain Development**  
+- **Data Science**  
+- **Generative AI**  
+
+---
+
+## 🌐 Connect with Me  
+
+- **GitHub**: [github.com/rahul9561](https://github.com/rahul9561)  
+- **LinkedIn**: [linkedin.com/in/rahul-kumar-887093245](https://www.linkedin.com/in/rahul-kumar-887093245/)  
+- **Email**: rahul8969051051@gmail.com  
+- **Phone**: +91 9561579087  
+
+---
+
+## 🏙️ Location  
+
+- **Current Location**: Bhubaneswar, India  
+- **Preferred Job Location**: Bangalore, India  
+
+---
+
+Let me know if you'd like further customization or assistance in setting this up!
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/imrahul____007/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-kumar-887093245) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:20373450) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rahul95615) 
