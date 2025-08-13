@@ -1,6 +1,6 @@
 # 👨‍💻 Rahul Kumar  
 
-Hello! I am **Rahul Kumar**, a passionate and skilled **Full Stack Developer** specializing in **Django** and **React**. With hands-on experience in building efficient and scalable web applications, I enjoy crafting solutions that solve real-world problems. I also offer training in **Python Full Stack Development** and **Data Structures and Algorithms (DSA)**.
+Hello! I am **Rahul Kumar**, a passionate and skilled **Full Stack Developer** specializing in **Django** , **Node Js*** and **React**. With hands-on experience in building efficient and scalable web applications, I enjoy crafting solutions that solve real-world problems. I also offer training in **Python Full Stack Development** and **Data Structures and Algorithms (DSA)**.
 
 ---
 
