@@ -32,19 +32,39 @@ Hello! I am **Rahul Kumar**, a passionate and skilled **Full Stack Developer** s
 ## 🛠️ Technical Skills  
 
 ### Backend:  
-- Python, Django, Django Rest Framework (DRF)  
-- JWT Authentication, Database design, and ER modeling (SQLite, MySQL)  
+- Django
+- Django REST Framework (DRF)
+- Node.js
+- Express.js
+- REST API Development
+- JWT Authentication
+- WebSocket
+- MySQL
+- SQLite
+- PostgreSQL
+- API Integration 
 
 ### Frontend:  
-- React, TypeScript, Next.js  
-- React Native (Expo) for mobile app development  
-- HTML, CSS, Bootstrap  
+- React.js
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- Bootstrap
+- Tailwind CSS
+- Material UI (MUI) 
 
-### Other Tools:  
-- Git, GitHub, Linux (Ubuntu/WSL2)  
-- Deployment using **Nginx**  
-- Strong knowledge in **Data Structures and Algorithms (DSA)**  
-
+### DevOps & Deployment:  
+- Nginx
+- Docker
+- AWS (EC2, S3)
+- Git & GitHub
+- CI/CD Basics  
+### Programming & Problem Solving
+- Python
+- Java
+- Data Structures & Algorithms
+- SQL Optimization
 ---
 
 ## 📌 Recent Projects  
