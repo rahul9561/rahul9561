@@ -63,7 +63,7 @@ Hello! I am **Rahul Kumar**, a passionate and skilled **Full Stack Developer** s
 ### Programming & Problem Solving
 - Python
 - Java
-- javascripts
+- Javascripts
 - Data Structures & Algorithms
 - SQL Optimization
 ---
