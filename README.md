@@ -72,8 +72,8 @@ I enjoy building efficient, scalable web applications and crafting real-world so
    - Built with **FastAPI**, **React (Vite + Tailwind)**, **LangChain**, **OpenAI**, and **Hugging Face**.  
    - Enables businesses to **create custom AI chatbots** for website integration and customer support.  
 
-2. **ZippyGro – Quick Grocery Delivery** - [Visit](https://zippygro.com/)
-   - Fast and scalable **10-minute grocery delivery platform** using **Django (REST API)** and **React (Vite)**.  
+2. **ZippyGro – Ecommerce Delivery** - [Visit](https://zippygro.com/)
+   - Fast and scalable **Ecommerce delivery platform** using **Django (REST API)** and **React (Vite)**.  
    - Integrated **Cashfree payment gateway** and **JWT authentication** for secure transactions.  
 
 3. **ERP Model Software**  
@@ -85,7 +85,7 @@ I enjoy building efficient, scalable web applications and crafting real-world so
 5. **AM Loan Seva Website**  
    - Loan assistance platform for **Personal**, **Home**, and **Business Loans** with a responsive **Bootstrap** interface.  
 
-6. **Movie App** – [GitHub Code](https://github.com/rahul9561)  
+6. **Movie App** – [GitHub Code](https://github.com/rahul9561/movies_mobile_app)  
    - **React Native** mobile app displaying **top-rated and upcoming movies** using **API integration**.  
 
 7. **Pure Aqua Services**  - [Visit](https://pureaquaservices.com/)
