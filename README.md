@@ -1,8 +1,8 @@
 # 👨‍💻 Rahul Kumar  
 
-Hello! I am **Rahul Kumar**, a passionate and skilled **Full Stack Developer** specializing in **Django**, **Node.js**, and **React**.  
+Hello! I am **Rahul Kumar**, a passionate and skilled **Full Stack Developer** specializing in **Django**, **Fast Api**, **Node.js**, and **React**.  
 I enjoy building efficient, scalable web applications and crafting real-world solutions.  
-💡 *Currently exploring AI integrations with Django and React to build intelligent web systems.*  
+💡 *Currently exploring AI integrations with Django , Fast api and React to build intelligent web systems.*  
 
 ---
 
@@ -40,7 +40,8 @@ I enjoy building efficient, scalable web applications and crafting real-world so
 
 ### 🖥️ Backend  
 - Django & Django REST Framework (DRF)  
-- Node.js & Express.js  
+- Node.js & Express.js
+- Fast api
 - RESTful API Development  
 - JWT Authentication  
 - WebSocket Integration  
