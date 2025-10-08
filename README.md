@@ -68,26 +68,35 @@ I enjoy building efficient, scalable web applications and crafting real-world so
 
 ## 📌 Recent Projects  
 
-1. **ERP Model Software**  
-   - Robust ERP system built with **Django** and **Bootstrap** for multi-company sales and inventory tracking.  
+1. **AI Chatbot Builder for Websites** – [GitHub Code](https://github.com/rahul9561/AI-Chatbot-Builder-for-Websites)  
+   - Built with **FastAPI**, **React (Vite + Tailwind)**, **LangChain**, **OpenAI**, and **Hugging Face**.  
+   - Enables businesses to **create custom AI chatbots** for website integration and customer support.  
 
-2. **SBTC Website** – [Visit SBTC](https://www.sbtc.one)  
-   - E-commerce platform for **PVC pipes**, **fittings**, and **tanks**, integrated with a custom backend.  
+2. **ZippyGro – Quick Grocery Delivery** - [Visit](https://zippygro.com/)
+   - Fast and scalable **10-minute grocery delivery platform** using **Django (REST API)** and **React (Vite)**.  
+   - Integrated **Cashfree payment gateway** and **JWT authentication** for secure transactions.  
 
-3. **AM Loan Seva Website**  
-   - Loan service platform for **Personal**, **Home**, and **Business Loans** with a clean **Bootstrap UI**.  
+3. **ERP Model Software**  
+   - Comprehensive **ERP system** developed with **Django** and **Bootstrap** for multi-company **sales**, **inventory**, and **data management**.  
 
-4. **Movie App** – [GitHub Code](https://github.com/rahul9561)  
-   - **React Native** app displaying top-rated and upcoming movies via **API integration**.  
+4. **SBTC Website** – [Visit SBTC](https://www.sbtc.one)  
+   - E-commerce website for **PVC pipes**, **fittings**, and **tanks**, built with **Django** and **Bootstrap**, featuring product catalogs and inquiries.  
 
-5. **Pure Aqua Services**  
-   - E-commerce solution for water purification products and services.  
+5. **AM Loan Seva Website**  
+   - Loan assistance platform for **Personal**, **Home**, and **Business Loans** with a responsive **Bootstrap** interface.  
+
+6. **Movie App** – [GitHub Code](https://github.com/rahul9561)  
+   - **React Native** mobile app displaying **top-rated and upcoming movies** using **API integration**.  
+
+7. **Pure Aqua Services**  - [Visit](https://pureaquaservices.com/)
+   - E-commerce platform for **water purification systems** with an admin panel to manage orders and services.  
+
 
 ---
 
 ## 🧠 Currently Working On  
 - 🚀 **AI Chatbot Builder** using **FastAPI**, **LangChain**, **OpenAI**, and **Hugging Face**  
-- ⚡ **Quick-Commerce Grocery App** (Zepto-style delivery platform)  
+- ⚡ **Quick-Commerce  App** (Ecom delivery platform)  
 - 🧩 **Communication Link Management System** for business operations tracking  
 
 ---
