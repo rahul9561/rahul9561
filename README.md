@@ -1,172 +1,116 @@
-# 👨‍💻 Rahul Kumar  
+# Rahul Kumar | Full Stack Developer
 
-Hello! I am **Rahul Kumar**, a passionate and skilled **Full Stack Developer** specializing in **Django**, **Fast Api**, **Node.js**, and **React**.  
-I enjoy building efficient, scalable web applications and crafting real-world solutions.  
-💡 *Currently exploring AI integrations with Django , Fast api and React to build intelligent web systems.*  
+> Building scalable web applications with Django, FastAPI, Node.js, and React | AI Integration Enthusiast
 
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/imrahul____007/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-kumar-887093245) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20373450/rahul-kumar) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rahul95615)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-kumar-887093245)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rahul9561)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahul8969051051@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20373450/rahul-kumar)
 
 ---
 
-## 🏢 Professional Experience  
+## 👨‍💻 About Me
 
-### 🔹 Full Stack Developer – [AKS Global Tech](https://www.aksglobaltech.com/)
-- Developed and deployed scalable web applications using **Django**, **React**, and **Node.js**.  
-- Integrated REST APIs and managed cloud deployments with **Nginx** and **AWS EC2**.  
-- Collaborated on multiple client projects for e-commerce, ERP, and finance domains.  
+Full Stack Developer at **AKS Global Tech** with expertise in building enterprise-grade applications. I specialize in creating efficient, scalable solutions using modern web technologies and AI integrations.
 
-### 🔹 B2B Business Consultant  
-- Built and maintained export-import systems with data tracking across multiple distribution companies.  
-- Designed internal ERP workflows to manage sales, inventory, and reporting.  
-
-### 🔹 Trainer & Mentor  
-- Conducts **Python Full Stack** and **Data Structures & Algorithms (DSA)** courses.  
-- Focuses on project-based learning with practical exposure in **Django**, **React**, and **API Integration**.  
+- 🎓 **BCA Graduate** (2023)
+- 📍 **Location:** Bhubaneswar, India
+- 💼 **Experience:** Full Stack Development, B2B Consulting, Technical Training
+- 🌱 **Currently Exploring:** AI-powered web systems with LangChain & OpenAI
 
 ---
 
-## 🎓 Education  
-- **Bachelor of Computer Applications (BCA)** – Graduated in 2023  
+## 🛠️ Tech Stack
+
+**Backend**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat&logo=react&logoColor=61DAFB)
+
+**DevOps & Tools**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🛠️ Technical Skills  
+## 🚀 Featured Projects
 
-### 🖥️ Backend  
-- Django & Django REST Framework (DRF)  
-- Node.js & Express.js
-- Fast api
-- RESTful API Development  
-- JWT Authentication  
-- WebSocket Integration  
-- MySQL | PostgreSQL | SQLite  
-- API Integration  
+### [AI Chatbot Builder](https://github.com/rahul9561/AI-Chatbot-Builder-for-Websites)
+Custom AI chatbot platform for websites using FastAPI, React, LangChain, and OpenAI  
+`FastAPI` `React` `LangChain` `OpenAI` `Hugging Face`
 
-### 💻 Frontend  
-- React.js | React Native  
-- JavaScript (ES6+) | TypeScript  
-- HTML5 | CSS3  
-- Bootstrap | Tailwind CSS | Material UI  
+### [ZippyGro – Ecommerce Platform](https://zippygro.com/)
+Fast delivery ecommerce solution with Cashfree payment integration  
+`Django REST` `React` `Vite` `JWT Authentication` `Payment Gateway`
 
-### ⚙️ DevOps & Deployment  
-- Nginx | Docker | Gunicorn  
-- AWS (EC2, S3) | Google Cloud | Firebase  
-- Git | GitHub | CI/CD  
+### [SBTC Website](https://www.sbtc.one)
+E-commerce platform for PVC pipes and fittings with product catalog system  
+`Django` `Bootstrap` `MySQL`
 
-### 💡 Programming & Problem Solving  
-- Python | Java | JavaScript  
-- Data Structures & Algorithms (DSA)  
-- SQL Optimization  
+### [Pure Aqua Services](https://pureaquaservices.com/)
+Water purification systems platform with admin panel for order management  
+`Django` `React` `Admin Dashboard`
+
+### [Movie App](https://github.com/rahul9561/movies_mobile_app)
+React Native mobile app showcasing top-rated and upcoming movies  
+`React Native` `REST API` `TMDB API`
 
 ---
 
-## 📌 Recent Projects  
+## 💼 Professional Experience
 
-1. **AI Chatbot Builder for Websites** – [GitHub Code](https://github.com/rahul9561/AI-Chatbot-Builder-for-Websites)  
-   - Built with **FastAPI**, **React (Vite + Tailwind)**, **LangChain**, **OpenAI**, and **Hugging Face**.  
-   - Enables businesses to **create custom AI chatbots** for website integration and customer support.  
+**Full Stack Developer** | AKS Global Tech  
+- Developed scalable web applications for e-commerce, ERP, and finance domains
+- Integrated RESTful APIs and managed AWS EC2 deployments with Nginx
+- Led multiple client projects from design to production
 
-2. **ZippyGro – Ecommerce Delivery** - [Visit](https://zippygro.com/)
-   - Fast and scalable **Ecommerce delivery platform** using **Django (REST API)** and **React (Vite)**.  
-   - Integrated **Cashfree payment gateway** and **JWT authentication** for secure transactions.  
+**B2B Business Consultant**  
+- Built export-import tracking systems for distribution companies
+- Designed ERP workflows for sales, inventory, and reporting automation
 
-3. **ERP Model Software**  
-   - Comprehensive **ERP system** developed with **Django** and **Bootstrap** for multi-company **sales**, **inventory**, and **data management**.  
-
-4. **SBTC Website** – [Visit SBTC](https://www.sbtc.one)  
-   - E-commerce website for **PVC pipes**, **fittings**, and **tanks**, built with **Django** and **Bootstrap**, featuring product catalogs and inquiries.  
-
-5. **AM Loan Seva Website**  
-   - Loan assistance platform for **Personal**, **Home**, and **Business Loans** with a responsive **Bootstrap** interface.  
-
-6. **Movie App** – [GitHub Code](https://github.com/rahul9561/movies_mobile_app)  
-   - **React Native** mobile app displaying **top-rated and upcoming movies** using **API integration**.  
-
-7. **Pure Aqua Services**  - [Visit](https://pureaquaservices.com/)
-   - E-commerce platform for **water purification systems** with an admin panel to manage orders and services.  
-
-
----
-
-## 🧠 Currently Working On  
-- 🚀 **AI Chatbot Builder** using **FastAPI**, **LangChain**, **OpenAI**, and **Hugging Face**  
-- ⚡ **Quick-Commerce  App** (Ecom delivery platform)  
-- 🧩 **Communication Link Management System** for business operations tracking  
-
----
-
-## 🎯 Internships & Learning Platforms  
-Providing internships and training in:  
-- **Blockchain Development**  
-- **Data Science**  
-- **Generative AI**  
-
----
-
-## 🌍 Connect with Me  
-
-📧 **Email:** [rahul8969051051@gmail.com](mailto:rahul8969051051@gmail.com)  
-📞 **Phone:** +91 9561579087  
-💻 **GitHub:** [github.com/rahul9561](https://github.com/rahul9561)  
-🔗 **LinkedIn:** [linkedin.com/in/rahul-kumar-887093245](https://www.linkedin.com/in/rahul-kumar-887093245/)  
-
----
-
-## 🏙️ Location  
-- **Current:** Bhubaneswar, India  
-- **Preferred Job Location:** Pan India  
-
----
-
-## 💻 Tech Stack (Core)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<details>
-  <summary>View More Tools</summary>
-  
-  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-  ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-  ![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=jenkins)
-  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-</details>
+**Technical Trainer & Mentor**  
+- Teaching Python Full Stack Development and Data Structures & Algorithms
+- Focus on project-based learning with Django, React, and API integration
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rahul9561&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahul9561&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul9561&theme=dark&hide_border=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul9561&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul9561&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul9561&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rahul9561&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📫 Let's Connect
+
+- 💼 **LinkedIn:** [rahul-kumar-887093245](https://linkedin.com/in/rahul-kumar-887093245)
+- 📧 **Email:** rahul8969051051@gmail.com
+- 📱 **Phone:** +91 9561579087
+- 🐙 **GitHub:** [rahul9561](https://github.com/rahul9561)
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<!-- Proudly created by Rahul Kumar -->
+<p align="center">
+  <i>Open to exciting opportunities in Full Stack Development and AI Integration</i>
+</p>
