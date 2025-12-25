@@ -83,23 +83,7 @@ React Native mobile app showcasing top-rated and upcoming movies
 **Technical Trainer & Mentor**  
 - Teaching Python Full Stack Development and Data Structures & Algorithms
 - Focus on project-based learning with Django, React, and API integration
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul9561&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul9561&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul9561&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
+  
 ---
 
 ## 📫 Let's Connect
