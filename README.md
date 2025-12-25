@@ -11,10 +11,10 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer at **AKS Global Tech** with expertise in building enterprise-grade applications. I specialize in creating efficient, scalable solutions using modern web technologies and AI integrations.
+FullStack AI Developer with expertise in building enterprise-grade applications. I specialize in creating efficient, scalable solutions using modern web technologies and AI integrations.
 
 - 🎓 **BCA Graduate** (2023)
-- 📍 **Location:** Bhubaneswar, India
+- 📍 **Location:**  India
 - 💼 **Experience:** Full Stack Development, B2B Consulting, Technical Training
 - 🌱 **Currently Exploring:** AI-powered web systems with LangChain & OpenAI
 
