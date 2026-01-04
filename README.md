@@ -71,7 +71,7 @@ React Native mobile app showcasing top-rated and upcoming movies
 
 ## 💼 Professional Experience
 
-**Full Stack Developer** | AKS Global Tech  
+**Full Stack Developer** 
 - Developed scalable web applications for e-commerce, ERP, and finance domains
 - Integrated RESTful APIs and managed AWS EC2 deployments with Nginx
 - Led multiple client projects from design to production
